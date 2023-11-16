@@ -43,7 +43,7 @@ console.log(randomNum);
 //  Per exemple: console.log(Hola, ${this.name});.
 
 
-class Person {
+class person {
   constructor(name) {
     this.name = name;
   }
@@ -53,6 +53,6 @@ class Person {
   };
 }
 
-const person1 = new Person("Victoria");
-person1.greet(); 
+const person1 = new person("Victoria");
+person1.greet();
 
