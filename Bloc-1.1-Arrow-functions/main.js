@@ -100,7 +100,7 @@ const printNumbers = (numbers) => {
 const esperaTresSegons = () => { 
     setTimeout(() => {
 
-        console.log("3 segons més tart...");
+        console.log("Missatje després de 3 segons...");
 
     }, 3000);
 
